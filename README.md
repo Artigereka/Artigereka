@@ -30,5 +30,5 @@ Improving my Spring Boot skilss and make out graphs with python.
 
 ### Find me at:
 <div>
-  <a href="mailto:artzai.orozco7768@alumnos.udg.mx" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="40" height="40"/></a>
+  <a href="mailto:artzaiguereca44@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="mail" width="40" height="40"/></a>
 </div>
